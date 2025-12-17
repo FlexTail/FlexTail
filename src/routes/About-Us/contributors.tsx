@@ -8,7 +8,7 @@ interface Contributor {
   contributions?: number
 }
 
-const GITHUB_REPO = 'SyedArbaazHussain/JigsawUI'
+const GITHUB_REPO = 'FlexTail/FlexTail'
 
 export const Route = createFileRoute('/About-Us/contributors')({
   component: () => {

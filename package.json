@@ -1,5 +1,5 @@
 {
-  "name": "JigsawUI",
+  "name": "FlexTail",
   "private": true,
   "type": "module",
   "scripts": {
@@ -13,6 +13,7 @@
     "check": "prettier --write . && eslint --fix"
   },
   "dependencies": {
+    "@flextail/ui": "^0.0.9",
     "@t3-oss/env-core": "^0.12.0",
     "@tailwindcss/vite": "^4.0.6",
     "@tanstack/react-devtools": "^0.2.2",

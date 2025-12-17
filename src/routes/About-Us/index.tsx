@@ -17,7 +17,7 @@ const AUTHOR = {
   github: 'https://github.com/SyedArbaazHussain',
   linkedin: 'https://www.linkedin.com/in/syed-arbaaz-hussain-7267ab228/',
   avatar: 'https://avatars.githubusercontent.com/u/69892240?v=4',
-  bio: `Syed Arbaaz Hussain is a FullStack Developer from India with a deep passion for software engineering, AI, computer vision, and automation. He is the creator of JigsawUI and has contributed to several impactful projects including FallSafe—a real-time fall detection system using YOLO and machine learning—and PumpCare Connect, an IoT-based platform for pump system monitoring. Arbaaz is a hackathon winner, published technical blogger, and a strong advocate for scalable design systems and developer tooling. He enjoys exploring new technologies, collaborating on open-source, and mentoring others in the tech community. You can find his work on GitHub and connect with him on LinkedIn to explore ideas or discuss innovation in tech.`,
+  bio: `Syed Arbaaz Hussain is a FullStack Developer from India with a deep passion for software engineering, AI, computer vision, and automation. He is the creator of FlexTail and has contributed to several impactful projects including FallSafe—a real-time fall detection system using YOLO and machine learning—and PumpCare Connect, an IoT-based platform for pump system monitoring. Arbaaz is a hackathon winner, published technical blogger, and a strong advocate for scalable design systems and developer tooling. He enjoys exploring new technologies, collaborating on open-source, and mentoring others in the tech community. You can find his work on GitHub and connect with him on LinkedIn to explore ideas or discuss innovation in tech.`,
 }
 
 const AboutUsPage = () => {
@@ -29,11 +29,11 @@ const AboutUsPage = () => {
     <main className="container mx-auto py-16 px-4 sm:px-6 lg:px-8 text-black dark:text-white">
       <div className="flex flex-col items-center text-center">
         <h1 className="text-4xl sm:text-5xl font-bold mb-8 md:mb-12 underline underline-offset-[1rem]">
-          About JigsawUI
+          About FlexTail
         </h1>
         <section className="mb-10 max-w-4xl">
           <p className="text-lg">
-            JigsawUI is a modern, scalable UI component library built for
+            FlexTail is a modern, scalable UI component library built for
             performance and design flexibility. It supports commercial-grade
             internationalization, dark/light themes, and is optimized for
             developer experience.
